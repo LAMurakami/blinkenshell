@@ -9,6 +9,11 @@ The archive is extracted on a new instance with:
 
 tar -xvzf /mnt/efs/aws-lam1-ubuntu/blinkenshell.tgz --directory /var/www
 
+Implement in efs/aws-lam1-ubuntu Daily cron runs with:
+
+ln -s /var/www/blinkenshell/blinkenshell_archive_rebuild.bash \
+/mnt/efs/aws-lam1-ubuntu/blinkenshell
+
 The following will list files changed since the archive was last rebuilt:
 
 if [ $(find /var/www/blinkenshell -newer /mnt/efs/aws-lam1-ubuntu/blinkenshell.tgz -print \
