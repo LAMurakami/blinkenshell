@@ -1,0 +1,25 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2016.10.29.06.12.19;	author lam;	state Exp;
+branches;
+next	;
+
+
+desc
+@The main http://lam.blinkenshell.org page.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@lam
+@

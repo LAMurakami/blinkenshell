@@ -1,0 +1,18 @@
+# $Id: .htaccess,v 1.3 2020/05/20 01:48:55 lam Exp lam $
+#
+# Apache configuration directives for lam.blinkenshell.org
+#
+# linked as apacheConfiguration.txt for visibility with:
+# ln -s .htaccess apacheConfiguration.txt
+
+# Set the directory listing README file name
+ReadmeName FOOTER.html
+
+# Do not display the HEADER, FOOTER files or archive files
+IndexIgnore .??* *~ *# HEADER* FOOTER* RCS CVS *,v *,t
+
+# Set the default index sort order
+IndexOrderDefault Descending Date
+
+# Set the style sheet for the directory listings displayed in html
+IndexStyleSheet /lam.css

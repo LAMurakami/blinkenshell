@@ -1,0 +1,113 @@
+"2019-04-02 13:25 "< eyesshut> do any of you know a way to post a .txt file somewhere on the web so one can access it via an absolute url? ie http://www.whatever.com/text.txt
+"2019-04-02 13:26 "< eyesshut> oops, i did not what it to be a link
+"2019-04-02 13:28 "< eyesshut> wow, I just check that link and it actually refreshes to a utube channel
+"2019-04-02 13:40 "< eyesshut> I should mention I do not own a domain currently and online file host companies do not offer such option afaik
+"2019-04-02 13:41 "-!- autir [~autir@ppp079167218194.access.hol.gr] has quit [Quit: Leaving]
+"2019-04-02 13:49 "< cheets> eyesshut: what area is that?
+"2019-04-02 13:49 "< cheets> stabbings are all the rage here now
+"2019-04-02 13:56 "-!- drakonis [~u0_a272@177.78.246.127] has joined #blinkenshell
+"2019-04-02 13:56 "< eyesshut> @cheets in the far west US, rather leave to that
+"2019-04-02 13:59 "< eyesshut> guys I need a hand. All cloud storage I have experience do not give you options to have a  .txt link shared, rathe it ends with something like AAA*&(H etc
+"2019-04-02 14:00 "<@blinkenbot> System status: Users: 36, Load: 0.20, Service status: All OK (0(0) warn, 0(0) crit, 58 ok), ping.sunet.se latency: 47.009 ms (0% packetloss)
+"2019-04-02 14:01 "-!- drakonis_ [~u0_a272@200.17.83.242] has joined #blinkenshell
+"2019-04-02 14:02 "< eyesshut> @ drakonis. Hi, do you have knowledge of cloud storage?
+"2019-04-02 14:03 "<+stilbruch> Well you are a blinkenshell member right? It provides free web hosting yanno
+"2019-04-02 14:03 "< eyesshut> I am not
+"2019-04-02 14:03 "<+stilbruch> Oh gotcha. Well how big is the file? If it's just a one time thing I could throw it up for you
+"2019-04-02 14:03 "<+stilbruch> Why do you need a .txt extension anyways?
+"2019-04-02 14:04 "-!- drakonis1 [~u0_a272@191.187.240.40] has quit [Ping timeout: 600 seconds]
+"2019-04-02 14:08 "< eyesshut> @stilbruch I love the offer, thank you,  and it would have to be a file that I have access to for testing/editing. 
+"2019-04-02 14:08 "< eyesshut> and did I mention I am really looking forward to become a member? 
+"2019-04-02 14:10 "-!- drakonis [~u0_a272@177.78.246.127] has quit [Ping timeout: 600 seconds]
+"2019-04-02 14:10 "<+stilbruch> Have you signed up yet?
+"2019-04-02 14:11 "< eyesshut> waiting for vouches..oops did I brake the in house policy? :)
+"2019-04-02 14:12 "< eyesshut> and mispelled the word, vouchers
+"2019-04-02 14:16 "<+stilbruch> I'm pretty new so idk how that works honestly. I think I have some that I can give tho?
+"2019-04-02 14:16 "<+Loki`> Did you follow all the instructions on the webpage before signing up?
+"2019-04-02 14:20 "< eyesshut> yep, I passed the test and need to get two vouchers
+"2019-04-02 14:20 "< eyesshut> from current members I believe?
+"2019-04-02 14:21 "-!- drakonis [~u0_a272@177.78.246.127] has joined #blinkenshell
+"2019-04-02 14:21 "< eyesshut> https://blinkenshell.org/wiki/Howto/GetVouched
+"2019-04-02 14:22 "<+Loki`> What nick did you register with Nickserv?
+"2019-04-02 14:30 "-!- drakonis_ [~u0_a272@200.17.83.242] has quit [Ping timeout: 600 seconds]
+"2019-04-02 14:31 "< eyesshut> eyesshut
+"2019-04-02 14:31 "<+Loki`> -NickServ- Nick eyesshut isn't registered.
+"2019-04-02 14:33 "<+Loki`> I'm gonna be totally honest with you. Being that I'm still fairly new n all not many people know how I work with things like this. The rules and the process are clearly laid out on the webpage as far as what you have to do at every step. I'm more than happy to help out and vouch for someone if they're following the process, but if a person can't be bothered doing it the way the rest of 
+"2019-04-02 14:33 "<+Loki`> us did then they're not gonna get it from me.
+"2019-04-02 14:34 "< eyesshut> just realized that. I did it few days ago,something went wrong
+"2019-04-02 14:35 "<+Loki`> BAlso, lying to me about something when I clearly know the truth is not the way to 
+get the vouch either. because if I asked you that specifically, I already knew the answer. If anything it will get you a negative vouch from me.
+"2019-04-02 14:35 "<+Loki`> -B
+"2019-04-02 14:36 " * Loki` goes back to what he was doing now
+"2019-04-02 14:36 "< eyesshut> Loki, no need to get upset. I passed the test and must have registered under a different alias perhaps
+"2019-04-02 14:37 "<+Loki`> I'm not upset.
+"2019-04-02 14:37 "<+Loki`> Just setting expectations like they were set for me.
+"2019-04-02 14:38 "-!- lv [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has joined #blinkenshell
+"2019-04-02 14:39 "< eyesshut> I am learning. Is there a way to retrieve the nick at this point? I have no written notes, thank you.
+"2019-04-02 14:39 "-!- The_One [~lam@ec2-34-221-230-222.us-west-2.compute.amazonaws.com] has joined #blinkenshell
+"2019-04-02 14:40 "< The_One> Hello Blinkers ;-)
+"2019-04-02 14:40 "-!- lv [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has quit [Quit: Web client closed]
+"2019-04-02 14:40 "<+Loki`> Something about this isn't looking right to me, but again since I'm the new guy I'm gonna leave it to the more experienced ones. Maybe they will be able to help you with it.
+"2019-04-02 14:40 "<+Loki`> Hello The_One
+"2019-04-02 14:40 "-!- Lv [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has joined #blinkenshell
+"2019-04-02 14:41 "< eyesshut> +Loki, it's actually Lv, 
+"2019-04-02 14:42 "< The_One> Hello Loki and eyesshut ;-)
+"2019-04-02 14:42 "< eyesshut> hello there,
+"2019-04-02 14:43 "<+stilbruch> o/
+"2019-04-02 14:44 "<+Loki`> Alo stilbruch
+"2019-04-02 14:44 "<+Loki`> eyesshut... I see that. But like I said something isn't looking right to me.
+"2019-04-02 14:46 "< eyesshut> you have the advantage of knowledge
+"2019-04-02 14:46 "<+Loki`> stilbruch... If someone has started the signup process then blinkenbot would post their status and progress as they join, right? Or am I mistaken?
+"2019-04-02 14:47 "< eyesshut> I actually saw that yesterday, the bot was writing to voucher me 
+"2019-04-02 14:48 "< The_One> !signup eyesshut all
+"2019-04-02 14:48 "<@blinkenbot> The_One: User eyesshut: Signup progress: step 3 / 5, last seen 2019-03-31 04:25.
+"2019-04-02 14:48 "<@blinkenbot> The_One: No NickServ account registered, Signup account created at: 2019-03-31 03:39.
+"2019-04-02 14:48 "<+Loki`> Thanks The_One, I forgot about that.
+"2019-04-02 14:49 "< The_One> eyesshut: Once you get your shell account, which includes a web space, you could upload a file to: http://eyesshut.blinkenshell.org/text.txt and I just uploaded to http://lam.blinkenshell.org/text.txt
+"2019-04-02 14:52 "< eyesshut> I am uttelry confused because I did signed up.
+"2019-04-02 14:52 "-!- eyesshut [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has quit [Quit: Web client closed]
+"2019-04-02 14:52 "< Lv> all righty then
+"2019-04-02 14:52 "< Lv> is this the good account? please...:)
+"2019-04-02 14:53 "<+stilbruch> !signup Lv all
+"2019-04-02 14:53 "<@blinkenbot> stilbruch: There is no signup account named Lv.
+"2019-04-02 14:53 "<+stilbruch> !signup eyesshut all
+"2019-04-02 14:53 "<@blinkenbot> stilbruch: User eyesshut: Signup progress: step 3 / 5, last seen 2019-03-31 04:25.
+"2019-04-02 14:53 "<@blinkenbot> stilbruch: No NickServ account registered, Signup account created at: 2019-03-31 03:39.
+"2019-04-02 14:53 "<+stilbruch> You still gotta finish the 3rd step
+"2019-04-02 14:55 "< The_One> !vouch
+"2019-04-02 14:55 "<@blinkenbot> The_One: Users waiting for vouches (last 14 days): nogrod   (total 1)
+"2019-04-02 14:55 "<@blinkenbot> The_One: How to vouch: https://blinkenshell.org/wiki/Info/Approve ( * = user can't be vouched yet )
+"2019-04-02 14:56 "< Lv> fine fine, no vouch, let me figureit out on my side 
+"2019-04-02 14:57 " * Loki` arches a brow
+"2019-04-02 15:05 "-!- Lv [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has quit [Quit: Web client closed]
+"2019-04-02 15:08 "-!- drakonis_ [~u0_a272@200.17.83.242] has joined #blinkenshell
+"2019-04-02 15:15 "-!- eyesshut [~webchat@c-67-180-15-85.hsd1.ca.comcast.net] has joined #blinkenshell
+"2019-04-02 15:17 "-!- drakonis [~u0_a272@177.78.246.127] has quit [Ping timeout: 600 seconds]
+"2019-04-02 15:19 "< The_One> !signup eyesshut all
+"2019-04-02 15:19 "<@blinkenbot> The_One: User eyesshut: Signup progress: step 3 / 5, last seen 2019-03-31 04:25.
+"2019-04-02 15:19 "<@blinkenbot> The_One: No NickServ account registered, Signup account created at: 2019-03-31 03:39.
+"2019-04-02 15:19 "< The_One> !vouch
+"2019-04-02 15:19 "<@blinkenbot> The_One: Users waiting for vouches (last 14 days): nogrod   (total 1)
+"2019-04-02 15:19 "<@blinkenbot> The_One: How to vouch: https://blinkenshell.org/wiki/Info/Approve ( * = user can't be vouched yet )
+"2019-04-02 15:21 "< The_One> eyesshut: https://blinkenshell.org/wiki/Howto/Register_Nickname
+"2019-04-02 15:23 "< eyesshut> The_One I am already registerend [17:22] -NickServ- Nickname eyesshut is already registered!
+"2019-04-02 15:23 "< The_One> !signup nogrod all
+"2019-04-02 15:23 "<@blinkenbot> The_One: User nogrod: Signup progress: step 4 / 5 (0 / 2 vouches), last seen 2019-03-21 14:20.
+"2019-04-02 15:23 "<@blinkenbot> The_One: NickServ name: Nogrod, Signup account created at: 2019-03-21 14:20.
+"2019-04-02 15:24 "<+Loki`> [04/02 06:24:08p] -NickServ- eyesshut is currently online.
+"2019-04-02 15:24 "<+Loki`> [04/02 06:24:08p] -NickServ- Registered: Apr 03 01:15:53 2019 CEST (8 minutes ago)
+"2019-04-02 15:24 "< The_One> eyesshut: and you can IDENTIFY ;-)
+"2019-04-02 15:25 "< The_One> !vouch
+"2019-04-02 15:25 "<@blinkenbot> The_One: Users waiting for vouches (last 14 days): nogrod   (total 1)
+"2019-04-02 15:25 "<@blinkenbot> The_One: How to vouch: https://blinkenshell.org/wiki/Info/Approve ( * = user can't be vouched yet )
+"2019-04-02 15:25 "< The_One> !signup eyesshut all
+"2019-04-02 15:25 "<@blinkenbot> The_One: User eyesshut: Signup progress: step 3 / 5, last seen 2019-03-31 04:25.
+"2019-04-02 15:25 "<@blinkenbot> The_One: No NickServ account registered, Signup account created at: 2019-03-31 03:39.
+"2019-04-02 15:25 "< eyesshut> [17:25] -NickServ- You are already identified.
+"2019-04-02 15:26 "< The_One> Did you use the same email?
+"2019-04-02 15:26 "< eyesshut> yep
+"2019-04-02 15:28 "<@blinkenbot> Signup announcement: user chatzone gave -1 vouchpoints to eyesshut (total points: -1)
+"2019-04-02 15:30 "-!- drakonis [~u0_a272@200.17.83.242] has joined #blinkenshell
+"2019-04-02 15:30 "< eyesshut> you gotta be kidding
+"2019-04-02 15:33 "<+stilbruch> rip
+

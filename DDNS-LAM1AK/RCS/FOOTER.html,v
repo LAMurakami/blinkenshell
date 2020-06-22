@@ -1,0 +1,366 @@
+head	1.15;
+access;
+symbols;
+locks
+	lam:1.15; strict;
+comment	@# @;
+
+
+1.15
+date	2020.04.01.16.57.29;	author lam;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2020.03.29.22.55.46;	author lam;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2019.11.29.20.08.40;	author lam;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2019.05.10.20.37.18;	author lam;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2018.12.14.02.52.19;	author lam;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2018.05.16.07.46.50;	author lam;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2018.05.16.07.41.43;	author lam;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2017.09.21.20.43.47;	author lam;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2017.08.31.20.16.44;	author lam;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2017.06.06.01.48.19;	author lam;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2017.06.06.01.02.17;	author lam;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2017.06.01.23.24.30;	author lam;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2017.02.02.09.39.00;	author lam;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2017.02.02.09.15.57;	author lam;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.10.30.23.52.05;	author lam;	state Exp;
+branches;
+next	;
+
+
+desc
+@LAMurakami.ASUScomm.com - ASUS Dynamic Domain Name Service
+@
+
+
+1.15
+log
+@IP Address change from 69.178.107.49 To 69.178.106.89
+ from http://49.107.178-69.gci.net to http://89.106.178-69.gci.net
+@
+text
+@
+<h1>BlinkenShell user lam nickname The_One</h1>
+
+This is the DDNS-LAM1AK subdirectory of the public_html directory of BlinkenShell user lam nickname The_One's ${HOME} directory. 
+
+<h2>
+<a href="http://LAM1AK.ASUScomm.com/">LAM1AK.ASUScomm.com</a>
+ - ASUS Dynamic Domain Name Service
+</h2>
+
+<a href="http://ip.lam1.us/">ip.lam1.us</a>
+ &nbsp; &nbsp;
+<a href="http://ip.lamurakami.com/">ip.lamurakami.com</a>
+ - lam.BlinkenShell.org/DDNS-LAM1AK
+<br>
+<a href="http://gci.lam1.us/">gci.lam1.us</a>
+ &nbsp; &nbsp;
+<a href="http://gci.lamurakami.com/">gci.lamurakami.com</a>
+ - My site by host name for this virtual host content
+<p>
+<a href="http://69.178.106.89">                http://69.178.106.89  </a>
+ - My site by IP Address
+ &nbsp; &nbsp; aka:
+<a href="http://89.106.178-69.gci.net">        http://89.106.178-69.gci.net  </a>
+<a name="tail">
+<center><h2>
+A page periodically updated from my server.
+</h2></center></a>
+<p align=right>
+<a href="#top"><img border="0" src="/image/ScrollUp.gif" alt="up" />This page
+<img border="0" src="/image/ScrollUp.gif" alt="up" /></a> was last updated
+
+Wednesday, April 1, 2020 @@ 8:56:00 AM (Alaska Time)
+</p>
+</body></html>
+@
+
+
+1.14
+log
+@IP Address change from 69.178.106.247 to 69.178.107.49
+ from http://247-106-178-69.gci.net to http://49.107.178-69.gci.net
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.107.49">                http://69.178.107.49  </a>
+d24 1
+a24 1
+<a href="http://49.107.178-69.gci.net">        http://49.107.178-69.gci.net  </a>
+d33 1
+a33 1
+Sunday, March 29, 2020 @@ 2:54:37 PM (Alaska Time)
+@
+
+
+1.13
+log
+@I noticed my IP Address changed From 69.178.104.19 to 69.178.106.247
+ From: http://19-104-178-69.gci.net to http://247-106-178-69.gci.net
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.106.247">                http://69.178.106.247  </a>
+d24 1
+a24 1
+<a href="http://247-106-178-69.gci.net">        http://247-106-178-69.gci.net  </a>
+d33 1
+a33 1
+Friday, May 10, 2019 @@ 12:34:59 PM (Alaska Time)
+@
+
+
+1.12
+log
+@I noticed my IP Address changed from 69.178.106.9 to 69.178.104.19
+ from 9-106-178-69.gci.net to 19-104-178-69.gci.net
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.104.19">                http://69.178.104.19  </a>
+d24 1
+a24 1
+<a href="http://19-104-178-69.gci.net">        http://19-104-178-69.gci.net  </a>
+d33 1
+a33 1
+Thursday, December 13, 2018 @@ 5:51:04 PM (Alaska Time)
+@
+
+
+1.11
+log
+@IP Address change from 69.178.104.5 to 69.178.106.9
+ from http://5-104-178-69.gci.net to http://9-106-178-69.gci.net
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.106.9">                http://69.178.106.9  </a>
+d24 1
+a24 1
+<a href="http://9-106-178-69.gci.net">        http://9-106-178-69.gci.net  </a>
+@
+
+
+1.10
+log
+@IP Address change from 69.178.110.149 to 69.178.104.5
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.104.5">                http://69.178.104.5  </a>
+d24 1
+a24 1
+<a href="http://5-104-178-69.gci.net">        http://5-104-178-69.gci.net  </a>
+d33 1
+a33 1
+Tuesday, May 15, 2018 @@ 11:44:56 PM (Alaska Time)
+@
+
+
+1.9
+log
+@IP Address change from 69.178.104.164 to 69.178.110.149
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.110.149">                http://69.178.110.149  </a>
+d24 1
+a24 1
+<a href="http://149-110-178-69.gci.net">        http://149-110-178-69.gci.net  </a>
+d33 1
+a33 1
+Wednesday, April 11, 2018 @@ 8:59:56 PM (Alaska Time)
+@
+
+
+1.8
+log
+@IP Address changed from 69.178.106.56 to 69.178.104.164 when router was rebooted.
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.104.164">                http://69.178.104.164  </a>
+d24 1
+a24 1
+<a href="http://164-104-178-69.gci.net">        http://164-104-178-69.gci.net  </a>
+d33 1
+a33 1
+Thursday, September 21, 2017 @@ 12:40:17 PM (Alaska Time)
+@
+
+
+1.7
+log
+@IP address now 69.178.106.56 http://56-106-178-69.gci.net was 69.178.106.159
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.106.56">                http://69.178.106.56  </a>
+d24 1
+a24 1
+<a href="http://56-106-178-69.gci.net">        http://56-106-178-69.gci.net  </a>
+d33 1
+a33 1
+Thursday, June 1, 2017 @@ 3:18:02 PM (Alaska Time)
+@
+
+
+1.6
+log
+@IP changed to 69.178.106.159 from 6/4/2017 to 69.178.107.5
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.106.159">                http://69.178.106.159  </a>
+d24 1
+a24 1
+<a href="http://159-106-178-69.gci.net">        http://159-106-178-69.gci.net  </a>
+@
+
+
+1.5
+log
+@Update for change of name and fix a typo.
+@
+text
+@d21 1
+a21 1
+<a href="http://69.178.107.5">                http://69.178.107.5  </a>
+d24 1
+a24 1
+<a href="http://5-107-178-69.gci.net">        http://5-107-178-69.gci.net  </a>
+@
+
+
+1.4
+log
+@Point to LAM1AK.ASUScomm.com instead of LAMurakami.ASUScomm.com, new IP Address
+@
+text
+@d7 1
+a7 1
+<a href="http://LAM1AKi.ASUScomm.com/">LAM1AK.ASUScomm.com</a>
+d14 1
+a14 1
+ - lam.BlinkenShell.org/DDNS-LAMurakami
+@
+
+
+1.3
+log
+@nickname The_One instead of LAMurakami - still DDNS-LAMurakami subdirectory
+@
+text
+@d4 1
+a4 1
+This is the DDNS-LAMurakami subdirectory of the public_html directory of BlinkenShell user lam nickname The_One's ${HOME} directory. 
+d7 1
+a7 1
+<a href="http://LAMurakami.ASUScomm.com/">LAMurakami.ASUScomm.com</a>
+d21 1
+a21 1
+<a href="http://69.178.111.173">                http://69.178.111.173  </a>
+d24 1
+a24 1
+<a href="http://173-111-178-69.gci.net">        http://173-111-178-69.gci.net  </a>
+d33 1
+a33 1
+Wednesday, February 1, 2017 @@ 11:56:22 PM (Alaska Time)
+@
+
+
+1.2
+log
+@Changed from 250-136-42-72.gci.net 72.42.136.250 to 173-111-178-69.gci.net 69.178.111.173
+@
+text
+@d2 1
+a2 1
+<h1>BlinkenShell user lam nickname LAMurakami</h1>
+d4 1
+a4 1
+This is the DDNS-LAMurakami subdirectory of the public_html directory of BlinkenShell user lam nickname LAMurakami's ${HOME} directory. 
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d21 1
+a21 1
+<a href="http://72.42.136.250">                http://72.42.136.250  </a>
+d24 1
+a24 1
+<a href="http://250-136-42-72.gci.net">        http://250-136-42-72.gci.net  </a>
+d33 1
+a33 1
+Sunday, October 30, 2016 @@ 3:43:52 PM   (Alaska Time)
+d35 1
+a35 1
+</body></html>@

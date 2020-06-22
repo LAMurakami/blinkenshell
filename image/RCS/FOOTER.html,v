@@ -1,0 +1,61 @@
+head	1.2;
+access;
+symbols;
+locks
+	lam:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2020.05.20.03.01.42;	author lam;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2017.10.21.23.05.53;	author lam;	state Exp;
+branches;
+next	;
+
+
+desc
+@image subdirectory of the public_html directory
+@
+
+
+1.2
+log
+@I am using The_One rather than LAMurakami as my nickname.
+@
+text
+@
+<h1>BlinkenShell user lam nickname The_One</h1>
+
+This is the image subdirectory of the public_html directory of BlinkenShell user lam nickname The_One's ${HOME} directory. 
+
+<p align=right>
+<a name="tail" href="#top"><img border="0" src="/image/ScrollUp.gif" alt="up" />This page
+<img border="0" src="/image/ScrollUp.gif" alt="up" /></a> was last updated
+
+Tuesday, May 19, 2020 @@ 7:00:51 PM (Alaska Time)
+</p>
+</body></html>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+a2 1
+<h1>BlinkenShell user lam nickname LAMurakami</h1>
+d4 1
+a4 1
+This is the image subdirectory of the public_html directory of BlinkenShell user lam nickname LAMurakami's ${HOME} directory. 
+d10 1
+a10 1
+Sunday, October 30, 2016 @@ 3:40:18 PM   (Alaska Time)
+d12 1
+a12 1
+</body></html>@

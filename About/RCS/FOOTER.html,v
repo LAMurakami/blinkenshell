@@ -1,0 +1,204 @@
+head	1.5;
+access;
+symbols;
+locks
+	lam:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2020.05.20.01.41.41;	author lam;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2020.05.19.23.20.03;	author lam;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.11.28.03.12.36;	author lam;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.11.27.11.21.06;	author lam;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.10.30.05.59.32;	author lam;	state Exp;
+branches;
+next	;
+
+
+desc
+@The About subdirectory of the public_html directory of BlinkenShell user lam
+ nickname LAMurakami's ${HOME} directory.
+@
+
+
+1.5
+log
+@I have had my BlinkenShell account for more than three years.
+@
+text
+@
+<!-- $Id: FOOTER.html,v 1.4 2020/05/19 23:20:03 lam Exp lam $ -->
+<!--
+triton:/home/lam/public_html/About/FOOTER.html # This file
+triton:/home/lam/public_html/About/RCS/FOOTER.html,v # Revision Control System Archive
+
+Last Modified: Sunday, November 27, 2016 @@ 6:06:41 PM (Alaska Time)
+-->
+
+This is the About subdirectory of the public_html directory of BlinkenShell user lam nickname The_One's ${HOME} directory.
+
+<center>
+<h1>BlinkenShell - Free Shell Accounts</h1>
+<h2>personal web pages</h2>
+</center>
+
+The ability to post personal web pages at BlinkenShell
+ is included in the Free Shell Accounts they offer.
+
+<b><a href="http://BlinkenShell.org/wiki/Start"
+ title="BlinkenShell - Free Shell Accounts!">
+
+Free Shell Accounts</a></b> have a 100 MB Disk Quota and
+
+<b><a href="#tail"
+ title="I run an AWS t3.nano instance rather than pay for a Supporter account">
+
+Supporter</a></b> Accounts have a 1 GB quota.
+
+<center>
+<h2>I have given BlinkenShell users read access to ~lam/public_html</h2>
+</center>
+
+If you have a BlinkenShell Account you have read access to the DocumentRoot of this website at
+~lam/public_html or /home/lam/public_html including the HEADER.html FOOTER.html and .htaccess files which are not listed in the above directory listing.  You also have access to the hidden RCS directory and rcs archives within.  The rcs command was not installed in my default path on triton when I got on and you can also access the rcs commands, info and help I built.  To do so you would modify your environment with the following:
+<pre>PATH=${PATH}:~lam/bin ; export PATH
+MANPATH=${MANPATH}:~lam/share/man ; export MANPATH
+INFOPATH=${INFOPATH}:~lam/share/info ; export INFOPATH</pre>
+
+Once you have executed the above you can access the commands and the documentation.  The rcs command has both a man page and info file that can be accessed with:
+<pre>info rcs
+man rcs</pre>
+
+<center>
+<h2>I built rcs on triton on 10/28/2016</h2>
+</center>
+
+If you want to see the output of the wget, tar, configure, make, and make install commands used to install rcs from source you can look at on triton it with:
+<pre>less ~lam/src/rcs-5.9.4/wrk/*txt</pre>
+The source directory only uses up 3 MB but since I only have a 100 MB quota so I don't have room to leave things I don't need.
+
+<a name="tail">
+<center><h2>
+I run an AWS t3.nano instance rather than pay for a Supporter account.
+</h2></center></a>
+<b><a href="http://BlinkenShell.org/wiki/Info/Supporter"
+ title="More details on Supporter accounts">
+
+A BlinkenShell Supporter Account</a></b>
+increases the Disk Quota to 1GB, supports a custom domain, allows dynamic web pages with PHP or CGI and MySQL and more but costs 300 Swedish Krona ($31.20 USD) per year.  I am running <a href="http://aws.lam1.us/About">an AWS server</a> for $17.00 / year plus storage and network costs.  The total costs based on my current usage is less than the BlinkenShell Supporter Account costs and the first year, starting December 2017, was part of the AWS Free-Tier.
+<p>
+As of Tuesday, May 19, 2020 I have had my BlinkenShell account for more than three years and at least one aws instance running for more than two years.
+<p align=right>
+<a href="#top"><img border="0" src="/image/ScrollUp.gif" alt="up" />This page
+<img border="0" src="/image/ScrollUp.gif" alt="up" /></a> was last updated
+Tuesday, May 19, 2020 @@ 3:14:52 PM (Alaska Time)
+</p>
+@
+
+
+1.4
+log
+@I run an AWS t3.nano instance rather than pay for a Supporter account.
+@
+text
+@d2 1
+a2 1
+<!-- $Id: FOOTER.html,v 1.3 2016/11/28 03:12:36 lam Exp lam $ -->
+d62 1
+a62 2
+As of Monday, May 13, 2019 I have had my BlinkenShell account for more than two years and at least one aws instance running for more than 1 year.
+
+@
+
+
+1.3
+log
+@Fix case of BlinkenShell, add triton location comment
+ Reflect change of main nick from LAMurakami to The_One
+@
+text
+@d2 1
+a2 1
+<!-- $Id$ -->
+d25 2
+a26 2
+<b><a href="http://BlinkenShell.org/wiki/Info/Supporter"
+ title="More details on Supporter accounts">
+d54 1
+a54 1
+This site will get more additions and changes soon.
+d56 8
+d67 1
+a67 2
+
+Sunday, November 27, 2016 @@ 6:06:41 PM (Alaska Time)
+@
+
+
+1.2
+log
+@Blinkenshell - Free Shell Accounts - read access to ~lam/public_html
+@
+text
+@d2 9
+a10 1
+This is the About subdirectory of the public_html directory of BlinkenShell user lam nickname LAMurakami's ${HOME} directory.
+d13 1
+a13 1
+<h1>Blinkenshell - Free Shell Accounts</h1>
+d20 2
+a21 2
+<b><a href="http://blinkenshell.org/wiki/Start"
+ title="Blinkenshell - Free Shell Accounts!">
+d25 1
+a25 1
+<b><a href="http://blinkenshell.org/wiki/Info/Supporter"
+d31 1
+a31 1
+<h2>I have given Blinkenshell users read access to ~lam/public_html</h2>
+d60 1
+a60 1
+ Sunday, October 30, 2016 @@ 4:55:57 PM   (Alaska Time)
+a61 1
+
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 6
+a8 1
+<p>
+d22 4
+a25 1
+<p>
+d36 4
+d44 2
+a45 1
+<p>
+d47 1
+d49 4
+a52 1
+This page was last updated Saturday, October 29, 2016 @@ 9:49:05 PM (Alaska Time)
+d54 1
+@
