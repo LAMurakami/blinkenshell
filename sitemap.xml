@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://lam.blinkenshell.org</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/MailTo:lam@BlinkenShell.org</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/DDNS-LAM1AK/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/About/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/blinkenshell_apache2.conf</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/blinkenshell_archive_rebuild.bash</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/blinkenshell_aws_rsync.bash</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/favicon.ico</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/lam.css</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/image/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/apacheConfiguration.txt</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/text.txt</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/Sites/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/man/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/menuBar.html</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/ScrollUp.gif</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/man2html/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+<url>
+  <loc>http://lam.blinkenshell.org/rsync/</loc>
+  <changefreq>monthly</changefreq>
+  <lastmod>2020-06-22</lastmod>
+</url>
+</urlset>
+
