@@ -1,0 +1,86 @@
+<h1>
+This website is under control of
+<a href="/man/git">the stupid content tracker (git)</a>.
+</h1>
+<center>
+<h2>I made ~lam/public_html a git repository on Sunday June 21, 2020</h2>
+</center>
+You could clone this on triton with:
+<pre><a href="/man/git-clone">git clone</a> ~lam/public_html</pre>
+You can examine the log on triton with:
+<pre>cd ~lam/public_html
+<a href="/man/git-log">git log</a></pre>
+You can use git status|diff and other commands that require only read access.
+<p>
+At the current time the RCS archives remain because they have some
+information on changes made before Sunday June 21, 2020.  I can't remember
+if I had checked whether triton had git installed on it when I discovered
+it did not have rcs.  I am over 65 and learned revision control long
+before git came around.
+<center>
+<h2>Why now?</h2>
+</center>
+O.K. I only got around to getting this website is under control of git
+Sunday June 21, 2020 but it's a tiny site using
+less than 1/2 MB of space including the git repository.  I first used rcs
+even though I had to build rcs on triton to use it.  The build was partly and
+maybe even mostly to test my ability to build an application on triton but it
+was also because rcs is often the first thing I look for when I want to put a
+file under revision control.  When I get on a new Linux/Unix system I use it
+to archive the .bashrc .bash_aliases and any other files I am going to change.
+If I am administrator of a system I do the same thing for /etc files I change
+to control the operational environment.
+<p>
+Once you want to control multiple files git is a much better revision control
+system for a large variety of reasons.  The main reason is the commit which
+can be for anything from changes addition or deletion of a single object to
+a change affecting every object currently under it's control.
+<p>
+I still use rcs for a large part because I used it decades before git even
+existed.  Although git has been around more than a decade, rcs was initially
+released over 38 years ago when I was getting my Computer Science degree in my
+earliest days of coding.  As of today, 1/3 of the time git has been around
+is after I retired.
+<center>
+<h2>Something to do</h2>
+</center>
+There are a few reasons I am getting around to this today.  One is that one
+of my main activities while practicing social distancing because of the
+<a href="https://en.wikipedia.org/wiki/COVID-19_pandemic">COVID-19 pandemic</a> is
+playing with web technology.  A related reason is me getting around to a
+"Set up a GitHub Pages website" task I had added to my ToDo April 29, 2015
+a few months before I retired from <a href="https://en.wikipedia.org/wiki/Arctic_Region_Supercomputing_Center">
+Arctic Region Supercomputing Center (ARSC)</a>
+because it ceased to exist.  While worked for ARSC I worked on projects that
+used git but none of those were uploaded to GitHub let alone any "public"
+repository.  For most of the time I worked with git, a repository was a local
+path (often on a shared filesystem mounted locally) or a system:path
+combination.  In both cases it was the same argument that would work with
+rsync.  I created my GitHub account as part of The Data Scientist’s Toolbox
+course from Johns Hopkins University which is a MOOC (Massive Open Online
+Course) earlier in 2015.
+<p>
+So this site is one of many I decided to use git for revision control but it
+was a little different in that I had already implemented a clone of the site.
+The clone of the site is updated daily by a rsync job that uses this site as
+the source.  The clone also creates a backup using tar that is updated during
+a daily check if the content has changed.  This is the source used in the CloudInit directives when a new
+LAM AWS EC2 instance is launched to take over hosting of the site.
+<p>
+The .htaccess file that has some Apache configuration directives for the
+lam.blinkenshell.org site was already within the repo because of the way
+<a href="https://blinkenshell.org/wiki/Info/Webhosting">web pages at BlinkenShell</a>
+works.  I decided to move the
+<a href="/blinkenshell_apache2.conf">Apache2 configuration file for the clone</a>
+into the repo as well.  While I was at it I moved the
+<a href="/blinkenshell_archive_rebuild.bash">blinkenshell_archive_rebuild</a> and
+<a href="/blinkenshell_aws_rsync.bash">blinkenshell_aws_rsync</a>
+scripts into the archive and updated some of the comments.
+<p>
+I then decided to create this page.
+
+<p align=right>
+<a href="#top" name="tail"><img border="0" src="/image/ScrollUp.gif" alt="up" />This page
+<img border="0" src="/image/ScrollUp.gif" alt="up" /></a> was last updated
+Monday, June 22, 2020 @ 11:00 PM (Alaska Time)
+</p>
