@@ -11,7 +11,7 @@ tar -xvzf /mnt/efs/aws-lam1-ubuntu/blinkenshell.tgz --directory /var/www
 
 Implement in efs/aws-lam1-ubuntu Daily cron runs with:
 
-ln -s /var/www/blinkenshell/blinkenshell_archive_rebuild.bash \
+ln -s /var/www/blinkenshell/public_html/blinkenshell_archive_rebuild.bash \
 /mnt/efs/aws-lam1-ubuntu/blinkenshell
 
 The following will list files changed since the archive was last rebuilt:
@@ -36,7 +36,7 @@ if [ $(find /var/www/blinkenshell -newer /mnt/efs/aws-lam1-ubuntu/blinkenshell.t
   rm -f /mnt/efs/aws-lam1-ubuntu/blinkenshell.t{gz,xt}
 
   tar -cvzf /mnt/efs/aws-lam1-ubuntu/blinkenshell.tgz \
-  --exclude='blinkenshell/.git' \
+  --exclude='blinkenshell/public_html/.git' \
   --exclude='RCS' \
   --directory /var/www blinkenshell 2>&1 \
   | tee /mnt/efs/aws-lam1-ubuntu/blinkenshell.txt
