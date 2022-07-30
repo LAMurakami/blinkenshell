@@ -1,5 +1,3 @@
-# $Id: .htaccess,v 1.3 2020/05/20 01:48:55 lam Exp lam $
-#
 # Apache configuration directives for lam.blinkenshell.org
 #
 # linked as apacheConfiguration.txt for visibility with:
