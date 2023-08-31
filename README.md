@@ -1,5 +1,5 @@
 # [http://lam.BlinkenShell.org](http://lam.BlinkenShell.org)
-## lam@triton.BlinkenShell.org:~/public_html
+## lam @ triton.BlinkenShell.org:~/public_html
 
 I have been part of the BlinkenShell community since October of 2016.
 
